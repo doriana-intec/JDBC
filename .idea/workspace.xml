@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c18f2a1-d569-46d0-8f56-0658517dff0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - sql_store@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - sql_store@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - sql_store@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql_store: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - sql_store@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql_store: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="orders: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - sql_store@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql_store: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="products: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbxcTic8naxDRZRP5GgKi6pBoI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.DatabaseConnection" />
+      <module name="JDBC_Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatabaseConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - sql_store@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c18f2a1-d569-46d0-8f56-0658517dff0c" name="Default Changelist" comment="" />
+      <created>1583225174495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583225174495</updated>
+      <workItem from="1583225176057" duration="8957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="45" y="91" key="#Live_Templates" timestamp="1583226532468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="45" y="91" key="#Live_Templates/0.0.1536.824@0.0.1536.824" timestamp="1583226532468" />
+    <state x="361" y="73" key="#SQL_Dialects" timestamp="1583239390951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1583239390951" />
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583233233302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583233233302" />
+    <state x="369" y="170" key="FileChooserDialogImpl" timestamp="1583238079411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583238079411" />
+    <state width="1493" height="664" key="GridCell.Tab.0.bottom" timestamp="1583245702827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="664" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583245702827" />
+    <state width="1493" height="664" key="GridCell.Tab.0.center" timestamp="1583245702827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="664" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583245702827" />
+    <state width="1493" height="664" key="GridCell.Tab.0.left" timestamp="1583245702827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="664" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583245702827" />
+    <state width="1493" height="664" key="GridCell.Tab.0.right" timestamp="1583245702827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="664" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583245702827" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1583227396343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1583227396343" />
+    <state x="69" y="0" key="SettingsEditor" timestamp="1583239605173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="69" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583239605173" />
+  </component>
+</project>
