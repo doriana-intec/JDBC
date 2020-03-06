@@ -12,20 +12,28 @@ public class SearchBeer {
         toon eventueel ook alle gerelateerde gegevens (brouwer en biersoort)
         */
 
+        String orderByAlcohol = "SELECT Name,Alcohol FROM beers_db.beers ORDER BY Alcohol LIMIT 10";
+        String alcohoholQuery = "SELECT Name,Alcohol FROM beers_db.beers WHERE Alcohol > 5 LIMIT 5";
+        String relatedData = "SELECT b.Name,br.Name,c.Category FROM beers_db.beers AS b " +
+                "JOIN beers_db.brewers AS br ON b.BrewerId = br.Id " +
+                "JOIN beers_db.categories AS c ON b.CategoryId = c.Id";
+
         try (Connection conn =
                      DriverManager
                              .getConnection("jdbc:mysql://localhost:3306/beers_db",
-                "root","intec123");
+                                     "root", "intec123");
              Statement stmt = conn.createStatement();
-             ResultSet rs = stmt.executeQuery("SELECT Name,Alcohol FROM beers_db.beers LIMIT 10")){
+             ResultSet rs = stmt.executeQuery(relatedData)) {
 
-            while (rs.next()){
-                String name = rs.getString("Name");
-                float alcohol = rs.getFloat("Alcohol");
+            while (rs.next()) {
+                String beerName = rs.getString("b.Name");
+                String brewersName = rs.getString("br.Name");
+                String category = rs.getString("Category");
 
-                System.out.println(name + " " + alcohol);
+                System.out.println(beerName + " " + brewersName + " " + category);
+
             }
-        }catch (SQLException se){
+        } catch (SQLException se) {
             System.out.println(se.getMessage());
         }
     }
